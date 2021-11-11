@@ -19,8 +19,10 @@ https://www.linkedin.com/in/jonathan-palomeque/
  &#x1f4c8; Estadisticas de GitHub 
 
 <a href="https://github.com/manuelpalomeque/manuelpalomeque">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=#FAFA03text_color=c9cacc&icon_color=2bbc8a&bg_color=#FAFA03" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&hide=css,hack&title_color=#FAFA03text_color=#48E39A&icon_color=2bbc8a&bg_color=#FAFA03" />
 </a>
+
+
 <a href="https://github.com/manuelpalomeque/manuelpalomeque">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelpalomeque&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
