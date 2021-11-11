@@ -20,21 +20,21 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
   Estas son algunas de las tecnologías y herramientas que utilizo:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/whi%20Shark.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap1.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/wireshark.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/kali.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Metasploit.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/foca.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png"></code>
 </p>
 
 <br/>
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/vmware.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
