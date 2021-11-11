@@ -37,8 +37,8 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 <code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/postgreSQL.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code>
 </p>
 
 <br/>
@@ -66,7 +66,6 @@ Si quieres conocer más de mí, no dudes en contactarme:
     
 </div>
 <br/>
-
 <p align="center"> Vistas del perfil:<br/>
 <img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
 </p>
