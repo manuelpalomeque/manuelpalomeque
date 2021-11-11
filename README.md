@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola! 👋🙋‍♂️
 
-<!--
-**manuelpalomeque/manuelpalomeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en 
+- 🌱 Actualmente estoy aprendiendo 
+- 👯 Estoy buscando colaborar en
+- 🤔 Estoy buscando  ayuda con
+- 💬 Pregúntame sobre
+- 📫 Cómo contactarme: 
+- 😄 Pronombres: 
+- ⚡ Datos curiosos:
+
