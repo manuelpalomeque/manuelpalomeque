@@ -24,7 +24,7 @@ https://www.linkedin.com/in/jonathan-palomeque/
 
 
 <a href="https://github.com/manuelpalomeque/manuelpalomeque">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelpalomeque&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelpalomeque&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Manuel's GitHub Stats" />
 </a>
 
 
