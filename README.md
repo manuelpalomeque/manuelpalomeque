@@ -8,6 +8,7 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 
 <h2 align="center">
 </h2><br/>
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - 🔭 Buscando mi primer oportunidad para comenzar a desarrollarme en el mundo de la ciberseguridad.
 - 🌱 Actualmente estoy aprendiendo en la ***"Diplomatura en Seguridad Informática Ágil"***, del Instituto de Ciberdefensa de México.  
@@ -53,9 +54,19 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&layout=compact)](https://github.com/manuelpalomeque/github-readme-stats" alt="Manuel's Public Github Stats">
 </p>
+<br/>
 
-📫 Si quieres conocer más de mí , no dudes en contactarme a través de linkedin o escribiéndome a mi mail:
-## [![Gmail Badge](https://img.shields.io/badge/-pjonathanmanuel@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjonathanmanuel@hotmail.com)](mailto:pjonathanmanuel@hotmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-JonathanPalomeque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-palomeque/)](https://www.linkedin.com/in/jonathan-palomeque/) 
+<h2 align="center">
+Si quieres conocer más de mí, no dudes en contactarme:
+</h2>
 
- #### Vistas del perfil:
-  <img src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
+<div align="center">
+    
+[![Gmail Badge](https://img.shields.io/badge/-pjonathanmanuel@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjonathanmanuel@hotmail.com)](mailto:pjonathanmanuel@hotmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-JonathanPalomeque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-palomeque/)](https://www.linkedin.com/in/jonathan-palomeque/) 
+    
+</div>
+<br/>
+
+<p align="center"> Vistas del perfil:<br/>
+<img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
+</p>
