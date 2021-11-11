@@ -20,11 +20,11 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
   Estas son algunas de las tecnologías y herramientas que utilizo:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/foca.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/whi%20Shark.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/kali.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Metasploit.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/foca.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
 </p>
 
