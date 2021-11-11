@@ -1,4 +1,5 @@
-## ¡Hola, soy Manuel! 👋🙋‍♂️
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+# MANUEL PALOMEQUE
 
 Me gusta aprender cosas nuevas y mantenerme actualizado con las nuevas tecnologías. Esto me llevo a descubrir el mundo IT. 👨‍💻
 
@@ -15,3 +16,5 @@ Si quieres conocer más de mí , no dudes en contactarme a través de linkedin o
 - 📫 Cómo contactarme:   📧 pjonathanmanuel@hotmail.com     🌐https://www.linkedin.com/in/jonathan-palomeque/
 - ⚡ Dato curioso: me apasionan los Malwares!
 
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
