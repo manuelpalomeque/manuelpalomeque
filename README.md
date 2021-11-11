@@ -8,6 +8,7 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 
 <h2 align="center">
 </h2><br/>
+<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
 - 🔭 Buscando mi primer oportunidad para comenzar a desarrollarme en el mundo de la ciberseguridad.
 - 🌱 Actualmente estoy aprendiendo en la ***"Diplomatura en Seguridad Informática Ágil"***, del Instituto de Ciberdefensa de México.  
@@ -20,21 +21,21 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
   Estas son algunas de las tecnologías y herramientas que utilizo:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/whi%20Shark.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap1.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/wireshark.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/kali.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Metasploit.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/foca.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png"></code>
 </p>
 
 <br/>
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/vmware.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
@@ -53,9 +54,19 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&layout=compact)](https://github.com/manuelpalomeque/github-readme-stats" alt="Manuel's Public Github Stats">
 </p>
+<br/>
 
-📫 Si quieres conocer más de mí , no dudes en contactarme a través de linkedin o escribiéndome a mi mail:
-## [![Gmail Badge](https://img.shields.io/badge/-pjonathanmanuel@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjonathanmanuel@hotmail.com)](mailto:pjonathanmanuel@hotmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-JonathanPalomeque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-palomeque/)](https://www.linkedin.com/in/jonathan-palomeque/) 
+<h2 align="center">
+Si quieres conocer más de mí, no dudes en contactarme:
+</h2>
 
- #### Vistas del perfil:
-  <img src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
+<div align="center">
+    
+[![Gmail Badge](https://img.shields.io/badge/-pjonathanmanuel@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pjonathanmanuel@hotmail.com)](mailto:pjonathanmanuel@hotmail.com)  [![Linkedin Badge](https://img.shields.io/badge/-JonathanPalomeque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-palomeque/)](https://www.linkedin.com/in/jonathan-palomeque/) 
+    
+</div>
+<br/>
+
+<p align="center"> Vistas del perfil:<br/>
+<img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
+</p>
