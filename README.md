@@ -22,11 +22,8 @@ https://www.linkedin.com/in/jonathan-palomeque/
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&hide=css,hack&title_color=#FAFA03text_color=#48E39A&icon_color=2bbc8a&bg_color=#FAFA03" />
 </a>
 
-
-<a href="https://github.com/manuelpalomeque/manuelpalomeque">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelpalomeque&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Manuel's GitHub Stats" />
-</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=manuelpalomeque&show_icons=true&line_height=30)
 
 
- ### Profile Views :<br>
+ #### Vistas del perfil:
   <img src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
