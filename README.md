@@ -8,7 +8,7 @@ Si quieres conocer más de mí , no dudes en contactarme a través de linkedin o
 
 
 .
-- 🔭 Actualmente estoy buscando mi primer oportunidad para comenzar a desarrollarme en el mundo de la ciberseguridad.
+- 🔭 Buscando mi primer oportunidad para comenzar a desarrollarme en el mundo de la ciberseguridad.
 - 🌱 Actualmente estoy aprendiendo en la ***"Diplomatura en Seguridad Informática Ágil"***, del Instituto de Ciberdefensa de México.  
 - 👯 Estoy buscando colaborar en ***Pruebas de intrusión y penetración y/o Análisis de vulnerabilidades***.
 - 💬 Pregúntame sobre ***Python, Linux, Redes y Ciberseguridad***.
