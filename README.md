@@ -69,3 +69,7 @@ Si quieres conocer más de mí, no dudes en contactarme:
 <p align="center"> Vistas del perfil:<br/>
 <img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
 </p>
+
+[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelpalomeque)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque)](https://github.com/anuraghazra/github-readme-stats)
