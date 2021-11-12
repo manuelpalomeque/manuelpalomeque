@@ -47,13 +47,12 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
     Mis estadisticas de GitHub:
 </h2>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelpalomeque&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy" alt="Manuel's Public Github Stats">
-</p>
-<br/>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&layout=compact)](https://github.com/manuelpalomeque/github-readme-stats" alt="Manuel's Public Github Stats">
-</p>
+<div align="center">
+    
+[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelpalomeque)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <br/>
 
 <h2 align="center">
@@ -69,7 +68,3 @@ Si quieres conocer más de mí, no dudes en contactarme:
 <p align="center"> Vistas del perfil:<br/>
 <img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
 </p>
-
-[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelpalomeque)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque)](https://github.com/anuraghazra/github-readme-stats)
