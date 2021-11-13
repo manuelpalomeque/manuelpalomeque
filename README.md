@@ -29,6 +29,8 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png">
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/vmware.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/linux.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/windows.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/postgreSQL.png"> &nbsp;&nbsp;
