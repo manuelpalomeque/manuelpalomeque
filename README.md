@@ -21,24 +21,18 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
   Estas son algunas de las tecnologías y herramientas que utilizo:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap1.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/wireshark.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/kali.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png"></code>
-</p>
-
-<br/>
-<br/>
-
-<p align="center">
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/vmware.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap1.png">
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/wireshark.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/kali.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png">
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/vmware.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/postgreSQL.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
 </p>
 
 <br/>
@@ -47,13 +41,14 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
     Mis estadisticas de GitHub:
 </h2>
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=manuelpalomeque&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy" alt="Manuel's Public Github Stats">
-</p>
-<br/>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&layout=compact)](https://github.com/manuelpalomeque/github-readme-stats" alt="Manuel's Public Github Stats">
-</p>
+<div align="center">
+    
+[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelpalomeque)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelpalomeque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)+
+    
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuelpalomeque&" alt="manuelpalomeque" />
+</div>
 <br/>
 
 <h2 align="center">
@@ -66,7 +61,6 @@ Si quieres conocer más de mí, no dudes en contactarme:
     
 </div>
 <br/>
-
 <p align="center"> Vistas del perfil:<br/>
 <img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
 </p>
