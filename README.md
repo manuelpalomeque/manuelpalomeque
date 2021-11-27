@@ -63,6 +63,6 @@ Si quieres conocer más de mí, no dudes en contactarme:
     
 </div>
 <br/>
-<p align="center"> Vistas del perfil:<br/>
+<p align="center"> Vistas del perfil :<br/>
 <img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
 </p>
