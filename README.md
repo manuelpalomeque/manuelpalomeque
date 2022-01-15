@@ -26,7 +26,10 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/wireshark.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/kali.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"> &nbsp;&nbsp;   
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/burp1.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/hydra1.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/johntheripper.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png">
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/vmware.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
