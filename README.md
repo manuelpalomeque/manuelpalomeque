@@ -6,6 +6,7 @@
 <p align="center">Me gusta aprender cosas nuevas y mantenerme actualizado con las nuevas tecnologías. Esto me llevo a descubrir el mundo IT. 👨‍💻
 Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le sumo una nueva pasión, ser un especialista en <b>Ciberseguridad</b>.</p>
 
+
 <h2 align="center">
 </h2><br/>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
@@ -40,6 +41,16 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 <br/>
 
 <h2 align="center">
+    Mis estadisticas de TryHackMe:
+</h2>
+
+<div align="center">
+    
+<a href="https://tryhackme.com/p/ManuPalo" target='_blank' ><img src="https://tryhackme-badges.s3.amazonaws.com/ManuPalo.png" alt="TryHackMe"></a>
+<br/>
+[![TryHackMe Badge](https://img.shields.io/badge/-Perfil-green?style=flat-square&logoColor=white&link=https://tryhackme.com/p/ManuPalo/)](https://tryhackme.com/p/ManuPalo/)
+    
+ <h2 align="center">
     Mis estadisticas de GitHub:
 </h2>
 
@@ -63,6 +74,6 @@ Si quieres conocer más de mí, no dudes en contactarme:
     
 </div>
 <br/>
-<p align="center"> Vistas del perfil:<br/>
+<p align="center"> Vistas del perfil :<br/>
 <img align="center" src="https://profile-counter.glitch.me/manuelpalomeque/count.svg" />
 </p>
