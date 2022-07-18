@@ -13,7 +13,7 @@ Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le
 
 - 🔭 Buscando mi primer oportunidad para comenzar a desarrollarme en el mundo de la ciberseguridad.
 - 🌱 Actualmente estoy aprendiendo en la ***"Tecnicatura Universitaria en Ciberseguridad"***, de la Universidad del Gran Rosario (U.G.R.).  
-- 👯 Estoy buscando colaborar en ***Pruebas de intrusión y penetración y/o Análisis de vulnerabilidades***.
+- 👯 Estoy buscando colaborar en ***Pruebas de intrusión y penetración y/o Análisis de Malwares***.
 - 💬 Pregúntame sobre ***Python, Linux, Redes y Ciberseguridad***.
 - ⚡ Dato curioso: me apasionan los Malwares!
 <br/>
