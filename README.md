@@ -1,20 +1,20 @@
 <h1 align="center"> Hola 👋🏽, Soy Manuel Palomeque!</h1>
 <h3 align="center">
-    Analista de Ciberseguridad.  
+    Científico de Datos  
 </h3><br/>
 
 <p align="center">Me gusta aprender cosas nuevas y mantenerme actualizado con las nuevas tecnologías. Esto me llevo a descubrir el mundo IT. 👨‍💻
-Después de mucho esfuerzo logre cumplir mi meta de ser Arquitecto. A lo cual le sumo una nueva pasión, ser un especialista en <b>Ciberseguridad</b>.</p>
+A lo cual le sumo una nueva pasión, ser un especialista en <b>Datos</b>.</p>
 
 
 <h2 align="center">
 </h2><br/>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
-- 🔭 Buscando mi primer oportunidad para comenzar a desarrollarme en el mundo de la ciberseguridad.
-- 🌱 Actualmente estoy aprendiendo en la ***"Tecnicatura Universitaria en Ciberseguridad"***, de la Universidad del Gran Rosario (U.G.R.).  
-- 👯 Estoy buscando colaborar en ***Pruebas de intrusión y penetración y/o Análisis de Malwares***.
-- 💬 Pregúntame sobre ***Python, Linux, Redes y Ciberseguridad***.
+- 🔭 Buscando mi primer oportunidad para comenzar a desarrollarme en el mundo de la Ciencia de Datos e Inteligencia Artificial.
+- 🌱 Actualmente estoy aprendiendo en la ***"Tecnicatura de Ciencia de Datos e Inteligencia Artificial"***, del Instituto Superior Politécnico Córdoba.  
+- 👯 Estoy buscando colaborar en ***visualización de Datos y proyectos de IA***.
+- 💬 Pregúntame sobre ***Python,SQL, Power BI, Estadísticas, Linux, Windows, Redes y Ciberseguridad***.
 - ⚡ Dato curioso: me apasionan los Malwares!
 <br/>
 
