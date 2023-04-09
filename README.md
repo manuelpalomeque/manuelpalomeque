@@ -1,6 +1,6 @@
 <h1 align="center"> Hola 👋🏽, Soy Manuel Palomeque!</h1>
 <h3 align="center">
-    Científico de Datos  
+    Data Science 
 </h3><br/>
 
 <p align="center">Me gusta aprender cosas nuevas y mantenerme actualizado con las nuevas tecnologías. Esto me llevo a descubrir el mundo IT. 👨‍💻
@@ -22,16 +22,15 @@ A lo cual le sumo una nueva pasión, ser un especialista en <b>Datos</b>.</p>
   Estas son algunas de las tecnologías y herramientas que utilizo:
 </h2>
 <p align="center">
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/nmap1.png">
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/wireshark.png"> &nbsp;&nbsp;
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/kali.png"> &nbsp;&nbsp;
+<img height="50" src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">
+<img height="50" src="https://cdn.iconscout.com/icon/free/png-512/tableau-5376637-4489897.png?f=avif&w=256"> &nbsp;&nbsp;
+<img height="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"> &nbsp;&nbsp;   
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/burp1.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/hydra1.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/johntheripper.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png">
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/vmware.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/linux.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/windows.png"> &nbsp;&nbsp;
