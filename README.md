@@ -25,32 +25,21 @@ A lo cual le sumo una nueva pasión, ser un especialista en <b>Datos</b>.</p>
 <img height="50" src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">
 <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/tableau-5376637-4489897.png?f=avif&w=256"> &nbsp;&nbsp;
 <img height="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
+<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/postgreSQL.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"> &nbsp;&nbsp;   
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/burp1.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/hydra1.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/johntheripper.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png">
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/linux.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/windows.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"> &nbsp;&nbsp;
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/postgreSQL.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
 </p>
 
 <br/>
-
-<h2 align="center">
-    Mis estadisticas de TryHackMe:
-</h2>
-
-<div align="center">
-    
-<a href="https://tryhackme.com/p/ManuPalo" target='_blank' ><img src="https://tryhackme-badges.s3.amazonaws.com/ManuPalo.png" alt="TryHackMe"></a>
-<br/>
-[![TryHackMe Badge](https://img.shields.io/badge/-Perfil-green?style=flat-square&logoColor=white&link=https://tryhackme.com/p/ManuPalo/)](https://tryhackme.com/p/ManuPalo/)
     
  <h2 align="center">
     Mis estadisticas de GitHub:
