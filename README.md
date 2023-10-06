@@ -27,16 +27,10 @@ A lo cual le sumo una nueva pasión, ser un especialista en <b>Datos</b>.</p>
 <img height="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/postgreSQL.png"> &nbsp;&nbsp;
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/metasploit.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/focaa.png"> &nbsp;&nbsp;   
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/hydra1.png"> &nbsp;&nbsp;
-<img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/johntheripper.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png">
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/linux.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/windows.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"> &nbsp;&nbsp;
-<img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"> &nbsp;&nbsp;
-<img height="50" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"> &nbsp;&nbsp;
 </p>
 
 <br/>
