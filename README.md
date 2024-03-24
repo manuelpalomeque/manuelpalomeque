@@ -23,6 +23,8 @@ A lo cual le sumo una nueva pasión, ser un especialista en <b>Datos</b>.</p>
 </h2>
 <p align="center">
 <img height="50" src="https://1000marcas.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">
+<img height="50" src="https://raw.githubusercontent.com/manuelpalomeque/manuelpalomeque/main/Recursos/power-icon-shadow-agents.png">
+<img height="50" src="https://raw.githubusercontent.com/manuelpalomeque/manuelpalomeque/main/Recursos/power%20automate%20color.png">
 <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/tableau-5376637-4489897.png?f=avif&w=256"> &nbsp;&nbsp;
 <img height="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
