@@ -3,8 +3,7 @@
     Data Science 
 </h3><br/>
 
-<p align="center">Me gusta aprender cosas nuevas y mantenerme actualizado con las nuevas tecnologías. Esto me llevo a descubrir el mundo IT. 👨‍💻
-A lo cual le sumo una nueva pasión, ser un especialista en <b>Datos</b>.</p>
+<p align="center">Me gusta aprender cosas nuevas y mantenerme actualizado con las nuevas tecnologías. Esto me llevo a descubrir el mundo IT, sumando una nueva pasión, ser un especialista en <b>Datos</b>.👨‍💻</p>
 
 
 <h2 align="center">
