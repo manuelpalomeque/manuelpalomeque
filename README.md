@@ -14,7 +14,7 @@
 - 🔭 Buscando mi oportunidad para comenzar a desarrollarme en el mundo de la Ciencia de Datos e Inteligencia Artificial.
 - 🌱 Actualmente estoy aprendiendo en la ***"Tecnicatura de Ciencia de Datos e Inteligencia Artificial"***, del Instituto Superior Politécnico Córdoba.  
 - 👯 Estoy buscando colaborar en ***visualización de Datos y proyectos de IA***.
-- 💬 Pregúntame sobre ***Python,SQL, Power BI, Copilot Studio (Ex Power Virtual Agents), Power Automate, Estadísticas, Linux, Windows, Redes y Ciberseguridad***.
+- 💬 Pregúntame sobre ***Python,SQL, Power BI, Copilot Studio (Ex Power Virtual Agents), Power Automate, Estadísticas, Linux, R, Windows, Redes y Ciberseguridad***.
 - ⚡ Dato curioso: me apasionan los Malwares!
 <br/>
 
