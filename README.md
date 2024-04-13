@@ -28,6 +28,7 @@
 <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/tableau-5376637-4489897.png?f=avif&w=256"> &nbsp;&nbsp;
 <img height="50" src="https://img.icons8.com/color/256/microsoft-sql-server.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/python.png"> &nbsp;&nbsp;
+<img height="50" src="https://raw.githubusercontent.com/manuelpalomeque/manuelpalomeque/main/Recursos/Rlogo.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/postgreSQL.png"> &nbsp;&nbsp;
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/Virtualbox_.png">
 <img height="50" src="https://github.com/manuelpalomeque/manuelpalomeque/blob/main/Recursos/linux.png"> &nbsp;&nbsp;
