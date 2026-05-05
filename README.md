@@ -1,6 +1,6 @@
 <h1 align="center"> Hola 👋🏽, Soy Manuel Palomeque!</h1>
 <h3 align="center">
-    Data Science 
+    Data Scientist & AI Developer 
 </h3><br/>
 
 <p align="center">Me gusta aprender cosas nuevas y mantenerme actualizado con las nuevas tecnologías. Esto me llevo a descubrir el mundo IT, sumando una nueva pasión, ser un especialista en <b>Datos</b>.👨‍💻</p>
